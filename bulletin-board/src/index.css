@@ -44,13 +44,18 @@ div.note button {
     margin: 2px;
 }
 
-div.note > textarea {
-    height: 75%;
-    background: rgba(255, 255, 255, .5);
+textarea
+{
+  height: 90%;
+  width:90%;
 }
 
 #edit {
   background-color: #337ab7;
+}
+
+#save {
+  background-color: #5cb85c;
 }
 
 #remove {
